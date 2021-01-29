@@ -1,8 +1,8 @@
 # book-api
 
 ## What is API ?
-An **API** is a set of programming code that enables data transmission between one software porduct and nother.
-It alos contains the terms of this data exchange.
+An **API** is a set of programming code that enables data transmission between one software porduct and another.
+It also contains the terms of this data exchange.
 
 ### Routes
 `GET /api/books` get all the books records.  
